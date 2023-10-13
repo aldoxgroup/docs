@@ -1,16 +1,15 @@
 ---
-title: Layout
+title: Meruta Online Services
 layout: default
-nav_order: 4.5
+nav_order: 2.5
 has_children: true
 ---
 
-# Layout
+# What is Meruta Online Services
 
-You specify the layout for a page in its [front matter]. Just the Docs has a `default` layout with a sidebar, used for almost all pages in the theme docs, and a `minimal` layout that omits the sidebar.
-{: .fs-6 .fw-300 }
+Meruta Online Services is a gateway for login ,with myMeurta credentials, to every Meruta Group's service and [external too](#externalapps)
 
-## The layout concept
+## External Apps
 
 See the [Jekyll docs page about layouts] for an explanation of the general idea of layouts and how to specify them.
 
