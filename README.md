@@ -14,5 +14,5 @@ This is the **official** Meruta Group docs GitHub repo.
 - Don't worry, you will not able to edit pages with spam things because your edit needs to be approved by a Meruta Staff
 - We use Cloudflare for detects bots, so any attempt to attack our website will not work.
 
-## Legal thingg
+## Legal things
 You can check all legal documents [here](https://aldoxplc.com/legal-center/)
